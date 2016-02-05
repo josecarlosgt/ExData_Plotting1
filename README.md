@@ -1,4 +1,4 @@
-## Description of the folders
+## Folders Description
 
 * data: Contains the sample used to generate the plots
 * figure: Contains the plots
