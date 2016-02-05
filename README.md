@@ -1,3 +1,9 @@
+## Description of the folders
+
+* data: Contains the sample used to generate the plots
+* figure: Contains the plots
+* src: Contains the source code for each plot
+
 ## Introduction
 
 This assignment uses data from
