@@ -1,3 +1,5 @@
+*Please note I used a bash script to filter out the undesired dates in order to generate the sample. Thus, the R scripts works with this sample and there is no mention regarding date filtering there*
+
 ## Folders Description
 
 * data: Contains the sample used to generate the plots
