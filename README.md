@@ -1,4 +1,4 @@
-*Please note I used a bash script to filter out the undesired dates in order to generate the sample. Thus, the R scripts works with this sample and there is no mention regarding date filtering there*
+*Please note I used a bash script to filter out the undesired dates in order to generate a sample. Thus, the R scripts work with this sample and there is no mention regarding date filtering there*
 
 ## Folders Description
 
